@@ -1,0 +1,5 @@
+ttkbootstrap>=1.10
+Pillow>=9.0.0
+numpy>=1.20
+opencv-python>=4.5
+pandas>=1.3
